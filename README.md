@@ -19,7 +19,7 @@ HOW IT WORKS:
 2. Send information of the type of tooth being brushed to the app which, depending on the tooth detected guides the user how to brush the tooth efficiently 
 3. Website to represent our product  
 4. Video to explain our product in detail  
-
+To run the toothbrush, you need an arsuino which is has power(supplied through battery).
 Attached files:
 1. The final code of arduino-accelerometer-bluetooth.
 2. The video explaining the product
