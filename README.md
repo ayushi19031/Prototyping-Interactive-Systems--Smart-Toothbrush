@@ -19,7 +19,7 @@ Applications and tools used:
 - Send information of the type of tooth being brushed to the app which, depending on the tooth detected guides the user how to brush the tooth efficiently 
 - Website to represent our product  
 - Video to explain our product in detail  
-To run the toothbrush, you need an arsuino which is has power(supplied through battery).
+To run the toothbrush, you need an arsuino which is has power(supplied through battery).  
 ***Attached files:
 1. The final code of arduino-accelerometer-bluetooth.
 2. The video explaining the product
