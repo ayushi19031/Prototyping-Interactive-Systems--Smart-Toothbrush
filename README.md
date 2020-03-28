@@ -12,15 +12,18 @@ Applications and tools used:
 6. Wix.com website builder to build website
 7. To build an app:    
   
-HOW IT WORKS: 
+# HOW IT WORKS: 
 
-1. Detect orientation of the brush using accelerometer:  
+- Detect orientation of the brush using accelerometer:  
   If the brush bristles are horizontal(as detected by accelerometer), it would mean that the user is nmost probable brushing incisors.     If the brush bristles are vertically downwards(as detected by accelerometer), it would mean that user is brushing lower molars. Else     if brush bristles are vertically upwards(as detected by accelerometer), it would mean that user is brushing top molars. Else if brush   bristles are diagonally facing, it implies that the user is most probably brushing canines. Other than this, we have made video and aa   website to demonstrate use of the toothbrush. 
-2. Send information of the type of tooth being brushed to the app which, depending on the tooth detected guides the user how to brush the tooth efficiently 
-3. Website to represent our product  
-4. Video to explain our product in detail  
+- Send information of the type of tooth being brushed to the app which, depending on the tooth detected guides the user how to brush the tooth efficiently 
+- Website to represent our product  
+- Video to explain our product in detail  
 To run the toothbrush, you need an arsuino which is has power(supplied through battery).
-Attached files:
+***Attached files:
 1. The final code of arduino-accelerometer-bluetooth.
 2. The video explaining the product
 3. The link of website: https://chintan19239.wixsite.com/website
+
+# FURTHER IMPROVEMENTS WHICH CAN BE MADE
+More languages should be integrated into the app. This will make it be accessible to people worldwide. On the hardware side, the grip of the toothbrush can be improved  by making grooves in it so that it can be held by devices like holders and sticks which are more comfortable to be used by a person.
