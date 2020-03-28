@@ -20,7 +20,6 @@ Applications and tools used:
 - Website to represent our product  
 - Video to explain our product in detail  
 To run the toothbrush, you need an arsuino which is has power(supplied through battery).  
-**
 Attached files:
 1. The final code of arduino-accelerometer-bluetooth.
 2. The video explaining the product
